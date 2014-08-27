@@ -11,13 +11,14 @@ Table of contents:
 * [Filter](#filter)
 * [Directive](#directive)
 * [Storage](#storage)
-* [Validation](#validation)
 * [Data Manage](#data-manage)
 * [Developer](#developer)
 * [View](#view)
 * [Service](#service)
 * [Internationalization](#internationalization)
-* [Third Party APIs](#third-party-apis)
+* [Chart](#chart)
+* [Task](#task)
+* [Other](#other)
 
 ## Seed Projects
 * [ngbp/ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps
