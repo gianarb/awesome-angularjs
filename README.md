@@ -2,7 +2,6 @@
 A list of awesome [AngularJs](http://angularjs.org) services, directives, utilities and resources.
 
 Table of contents:
-* [Programming Guides](#programming-guides)
 * [Seed Project](#seed-project)
 * [User Manager](#user-manager)
 * [Mobile](#mobile)
@@ -20,9 +19,6 @@ Table of contents:
 * [Chart](#chart)
 * [Task](#task)
 * [Other](#other)
-
-## Programming Guides
-* [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide) - A guide describing good programming practices for Angular JS
 
 ## Seed Projects
 * [ngbp/ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps
@@ -141,3 +137,4 @@ Table of contents:
 ## Other
 * [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
 * [shyamseshadri/angularjs-book](https://github.com/shyamseshadri/angularjs-book) - Examples and Code snippets from the AngularJS O'Reilly book
+* [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide) - A guide describing good programming practices for Angular JS
