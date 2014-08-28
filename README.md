@@ -27,6 +27,7 @@ Table of contents:
 * [tnajdek/angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed) - This is a fork of Angular Seed but with changes needed for requireJS support.
 * [btford/angular-express-blog](https://github.com/btford/angular-express-blog) - Example AngularJS app using an Express + Node.js backend.
 * [btford/angular-socket-io-seed](https://github.com/btford/angular-socket-io-seed) - A great starting point for writing AngularJS apps backed by a Socket.io-powered node.js server.
+* [ziyasal/ratchet-angular-seed](https://github.com/ziyasal/ratchet-angular-seed) - Seed project for Angular & Ratchet apps.
 
 ## User Manager
 * [ynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for angular.js
