@@ -123,6 +123,7 @@ Table of contents:
 
 ## Internationalization
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate) - i18n in your Angular apps, made easy
+* [rubenv/angular-gettext](https://github.com/rubenv/angular-gettext) - Translate your Angular.JS applications with gettext.
 
 ## Chart
 * [n3-charts/line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS
