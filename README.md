@@ -28,6 +28,7 @@ Table of contents:
 * [btford/angular-express-blog](https://github.com/btford/angular-express-blog) - Example AngularJS app using an Express + Node.js backend.
 * [btford/angular-socket-io-seed](https://github.com/btford/angular-socket-io-seed) - A great starting point for writing AngularJS apps backed by a Socket.io-powered node.js server.
 * [ziyasal/ratchet-angular-seed](https://github.com/ziyasal/ratchet-angular-seed) - Seed project for Angular & Ratchet apps.
+* [jesalg/RADD](https://github.com/jesalg/RADD) - Example AngularJS app using Rails and Devise authentication gem
 
 ## User Manager
 * [ynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for angular.js
