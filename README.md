@@ -85,6 +85,7 @@ Table of contents:
 * [c0bra/angular-responsive-images](https://github.com/c0bra/angular-responsive-images) - Angular responsive images
 * [angular-ui/ui-sortable](https://github.com/angular-ui/ui-sortable) - AngularJS bindings for jQuery UI Sortable
 * [durated/angular-scroll](https://github.com/durated/angular-scroll) - Scrollspy, animated scrollTo and scroll events for angular.js 
+* [jeffling/ng-tether](https://github.com/jeffling/ng-tether) - Angular wrapper for Tether: make absolutely positioned elements attach to elements in the page efficiently
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
