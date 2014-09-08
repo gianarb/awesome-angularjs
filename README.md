@@ -97,6 +97,7 @@ Table of contents:
 * [esvit/ng-table](https://github.com/esvit/ng-table) - Simple table with sorting and filtering on AngularJS
 * [huei90/angular-validation](https://github.com/huei90/angular-validation) - Client-side Validation for AngularJS
 * [kelp404/angular-validator](https://github.com/kelp404/angular-validator) - AngularJS form validation
+* [Textalk/angular-schema-form](https://github.com/Textalk/angular-schema-form) - Generate forms from a JSON schema, with AngularJS
 * [angular-ui/ng-grid](https://github.com/angular-ui/ng-grid) - UI Grid: an Angular Data Grid
 * [jbroquist/parse-angular](https://github.com/jbroquist/parse-angular) - Utilities for working with Parse.com data.
 * [laurihy/angular-payments](https://github.com/laurihy/angular-payments) - Module that provides AngularJS-directives for formatting, validating and working with payments
