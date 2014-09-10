@@ -29,6 +29,7 @@ Table of contents:
 * [btford/angular-socket-io-seed](https://github.com/btford/angular-socket-io-seed) - A great starting point for writing AngularJS apps backed by a Socket.io-powered node.js server.
 * [ziyasal/ratchet-angular-seed](https://github.com/ziyasal/ratchet-angular-seed) - Seed project for Angular & Ratchet apps.
 * [jesalg/RADD](https://github.com/jesalg/RADD) - Example AngularJS app using Rails and Devise authentication gem
+* [linemanjs/lineman-angular-template](https://github.com/linemanjs/lineman-angular-template) - This is a project template for Angular JS applications using Lineman.
 
 ## User Manager
 * [ynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for angular.js
@@ -92,6 +93,7 @@ Table of contents:
 * [grevory/angular-local-storage](https://github.com/grevory/angular-local-storage) - An AngularJS module that gives you access to the browsers local storage with cookie fallback
 * [jmdobry/angular-cache](https://github.com/jmdobry/angular-cache) - angular-cache is a very useful replacement for Angular's $cacheFactory.
 * [jmdobry/angular-data](https://github.com/jmdobry/angular-data) - Data store for Angular.js
+* [webcss/angular-indexedDB](https://github.com/webcss/angular-indexedDB) - An angularjs serviceprovider to utilize indexedDB with angular
 
 ## Data Manage
 * [esvit/ng-table](https://github.com/esvit/ng-table) - Simple table with sorting and filtering on AngularJS
@@ -111,6 +113,7 @@ Table of contents:
 * [decipherinc/angular-debaser](https://github.com/decipherinc/angular-debaser/) - Just a better way to test AngularJS apps
 
 ## View
+* [Angular UI](http://angular-ui.github.io/) - Angular UI is the companion suite(s) to the AngularJS framework.
 * [Augus/ngAnimate](https://github.com/Augus/ngAnimate) - ngAnimate is best effect sulotion made for AngularJS
 * [btford/angular-modal](https://github.com/btford/angular-modal) - Simple AngularJS service for creating modals
 
