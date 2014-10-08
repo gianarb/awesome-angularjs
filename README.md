@@ -32,7 +32,7 @@ Table of contents:
 * [linemanjs/lineman-angular-template](https://github.com/linemanjs/lineman-angular-template) - This is a project template for Angular JS applications using Lineman.
 
 ## User Manager
-* [ynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for angular.js
+* [lynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for angular.js
 * [andreareginato/oauth-ng](https://github.com/andreareginato/oauth-ng) - AngularJS directive for the OAuth 2.0 Implicit Flow
 * [enginous/angular-oauth](https://github.com/enginous/angular-oauth) - Client-side (implicit grant) OAuth 2.0 authorization flow for AngularJS
 * [witoldsz/angular-http-auth](https://github.com/witoldsz/angular-http-auth) - HTTP Auth Interceptor Module
@@ -40,7 +40,7 @@ Table of contents:
 
 ## Mobile
 * [ajoslin/angular-mobile-nav](https://github.com/ajoslin/angular-mobile-nav) - An angular navigation service for mobile applications
-* [ajoslin/angular-mobile-nav](https://github.com/driftyco/ng-cordova/) - AngularJS Cordova wrappers for common Cordova plugins
+* [driftyco/ng-cordova](https://github.com/driftyco/ng-cordova/) - AngularJS Cordova wrappers for common Cordova plugins
 * [revolunet/angular-carousel](https://github.com/revolunet/angular-carousel) - Mobile friendly AngularJS carousel
 
 ## Web Service
@@ -73,7 +73,7 @@ Table of contents:
 * [blackgate/bg-splitter](https://github.com/blackgate/bg-splitter) - Simple pane splitter for angular.js
 * [fullscale/dangle](https://github.com/fullscale/dangle) - A set of AngularJS directives that provide common D3 visualizations for elasticsearch
 * [angular-ui/ui-tinymce](https://github.com/angular-ui/ui-tinymce) - AngularUI wrapper for TinyMCE
-* [angular-ui/bootstrap](http://angular-ui.github.com/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required! 
+* [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required! 
 * [chieffancypants/angular-hotkeys](https://github.com/chieffancypants/angular-hotkeys) - Configuration-centric keyboard shortcuts for your Angular apps
 * [marcorinck/angular-growl](https://github.com/marcorinck/angular-growl) - growl-like notifications for angularJS projects
 * [urish/angular-spinner](https://github.com/urish/angular-spinner) - Angular directive to show an animated spinner 
