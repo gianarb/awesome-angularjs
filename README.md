@@ -137,6 +137,7 @@ Table of contents:
 * [n3-charts/line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS
 * [bouil/angular-google-chart](https://github.com/bouil/angular-google-chart) - Google Chart Tools AngularJS Directive Module
 * [chinmaymk/angular-charts](https://github.com/chinmaymk/angular-charts) - angular directives for creating common charts using d3
+* [carlcraig/tc-angular-chartjs](https://github.com/carlcraig/tc-angular-chartjs) - Add Chart.js charts to your angular application
 
 ## Task
 * [ericclemmons/grunt-angular-templates](https://github.com/ericclemmons/grunt-angular-templates) - Grunt build task to concatenate & pre-load your AngularJS templates
