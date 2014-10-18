@@ -30,6 +30,8 @@ Table of contents:
 * [ziyasal/ratchet-angular-seed](https://github.com/ziyasal/ratchet-angular-seed) - Seed project for Angular & Ratchet apps.
 * [jesalg/RADD](https://github.com/jesalg/RADD) - Example AngularJS app using Rails and Devise authentication gem
 * [linemanjs/lineman-angular-template](https://github.com/linemanjs/lineman-angular-template) - This is a project template for Angular JS applications using Lineman.
+* [meanjs/mean](https://github.com/meanjs/mean) - Mongo + ExpressJS + AngularJS + NodeJS boilerplate
+* [linnovate/mean](https://github.com/linnovate/mean) - Mongo + ExpressJS + AngularJS + NodeJS boilerplate by Linnovate
 
 ## User Manager
 * [lynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for angular.js
@@ -73,10 +75,10 @@ Table of contents:
 * [blackgate/bg-splitter](https://github.com/blackgate/bg-splitter) - Simple pane splitter for angular.js
 * [fullscale/dangle](https://github.com/fullscale/dangle) - A set of AngularJS directives that provide common D3 visualizations for elasticsearch
 * [angular-ui/ui-tinymce](https://github.com/angular-ui/ui-tinymce) - AngularUI wrapper for TinyMCE
-* [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required! 
+* [angular-ui/bootstrap](https://github.com/angular-ui/bootstrap) - Native AngularJS (Angular) directives for Bootstrap. Small footprint (5kB gzipped!), no 3rd party JS dependencies (jQuery, bootstrap JS) required!
 * [chieffancypants/angular-hotkeys](https://github.com/chieffancypants/angular-hotkeys) - Configuration-centric keyboard shortcuts for your Angular apps
 * [marcorinck/angular-growl](https://github.com/marcorinck/angular-growl) - growl-like notifications for angularJS projects
-* [urish/angular-spinner](https://github.com/urish/angular-spinner) - Angular directive to show an animated spinner 
+* [urish/angular-spinner](https://github.com/urish/angular-spinner) - Angular directive to show an animated spinner
 * [codef0rmer/angular-dragdrop](https://github.com/codef0rmer/angular-dragdrop) - Drag and Drop for AngularJS (with Animation)
 * [asafdav/ng-csv](https://github.com/asafdav/ng-csv) - Simple directive that turns arrays and objects into downloadable CSV files
 * [angular-widgets/angular-jqm](https://github.com/angular-widgets/angular-jqm) - AngularJS directives for jQuery Mobile
@@ -86,7 +88,7 @@ Table of contents:
 * [yunlzheng/angular-knob](https://github.com/yunlzheng/angular-knob) - angular directive of jquery knob
 * [c0bra/angular-responsive-images](https://github.com/c0bra/angular-responsive-images) - Angular responsive images
 * [angular-ui/ui-sortable](https://github.com/angular-ui/ui-sortable) - AngularJS bindings for jQuery UI Sortable
-* [durated/angular-scroll](https://github.com/durated/angular-scroll) - Scrollspy, animated scrollTo and scroll events for angular.js 
+* [durated/angular-scroll](https://github.com/durated/angular-scroll) - Scrollspy, animated scrollTo and scroll events for angular.js
 * [jeffling/ng-tether](https://github.com/jeffling/ng-tether) - Angular wrapper for Tether: make absolutely positioned elements attach to elements in the page efficiently
 
 ## Storage
@@ -149,4 +151,4 @@ Table of contents:
 * [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
 * [shyamseshadri/angularjs-book](https://github.com/shyamseshadri/angularjs-book) - Examples and Code snippets from the AngularJS O'Reilly book
 * [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide) - A guide describing good programming practices for Angular JS
-* [angular-js.in](http://angular-js.in/) - A curated collection of angular directives 
+* [angular-js.in](http://angular-js.in/) - A curated collection of angular directives
