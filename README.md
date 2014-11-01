@@ -23,7 +23,7 @@ Table of contents:
 ## Seed Projects
 * [ngbp/ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps
 * [vesparny/angular-kickstart](https://github.com/vesparny/angular-kickstart) - Speed up your AngularJS development and testing with a complete and scalable build system that scaffolds the project for you.
-* [angular/agular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
+* [angular/angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
 * [vesparny/angularjs-playground](https://github.com/vesparny/angularjs-playground) - A starting point that follows best-practices, for being up and running in minutes with angularJS
 * [StarterSquad/ngSeed](https://github.com/StarterSquad/ngseed) - AngularJS/RequireJS seed project
 * [tnajdek/angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed) - This is a fork of Angular Seed but with changes needed for requireJS support.
