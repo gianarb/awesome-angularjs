@@ -154,3 +154,4 @@ Table of contents:
 * [shyamseshadri/angularjs-book](https://github.com/shyamseshadri/angularjs-book) - Examples and Code snippets from the AngularJS O'Reilly book
 * [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide) - A guide describing good programming practices for Angular JS
 * [angular-js.in](http://angular-js.in/) - A curated collection of angular directives
+* [mgechev/angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns) - This repository provides different look into AngularJS.
