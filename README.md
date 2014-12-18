@@ -51,6 +51,7 @@ Table of contents:
 * [mgonto/restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
 * [chinmaymk/angular-cog](https://github.com/chinmaymk/angular-cog) - declarative ajax requests for angularjs
 * [tkambler/bonegular](https://github.com/tkambler/bonegular) - Backbone-Inspired Models and Collections for Angular
+* [platanus/angular-restmod](https://github.com/platanus/angular-restmod) - Rails inspired REST-API ORM for Angular
 
 ## Asset Manager
 * [danialfarid/angular-file-upload](https://github.com/danialfarid/angular-file-upload) - An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers
