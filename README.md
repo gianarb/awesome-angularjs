@@ -34,6 +34,7 @@ Table of contents:
 * [linemanjs/lineman-angular-template](https://github.com/linemanjs/lineman-angular-template) - This is a project template for Angular JS applications using Lineman.
 * [meanjs/mean](https://github.com/meanjs/mean) - Mongo + ExpressJS + AngularJS + NodeJS boilerplate
 * [linnovate/mean](https://github.com/linnovate/mean) - Mongo + ExpressJS + AngularJS + NodeJS boilerplate by Linnovate
+* [melvin0008/laravel-angular](https://github.com/melvin0008/laravel-angular) - Laravel + AngularJS + CouchDB boilerplate by Melvin
 
 ## User Manager
 * [lynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for angular.js
