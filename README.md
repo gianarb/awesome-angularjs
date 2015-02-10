@@ -145,6 +145,7 @@ Table of contents:
 * [bouil/angular-google-chart](https://github.com/bouil/angular-google-chart) - Google Chart Tools AngularJS Directive Module
 * [chinmaymk/angular-charts](https://github.com/chinmaymk/angular-charts) - angular directives for creating common charts using d3
 * [carlcraig/tc-angular-chartjs](https://github.com/carlcraig/tc-angular-chartjs) - Add Chart.js charts to your angular application
+* [stpa-co/angular-morris-chart](https://github.com/stpa-co/angular-morris-chart) - Create morris chart easily with this directives
 
 ## Task
 * [ericclemmons/grunt-angular-templates](https://github.com/ericclemmons/grunt-angular-templates) - Grunt build task to concatenate & pre-load your AngularJS templates
