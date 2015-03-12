@@ -106,6 +106,7 @@ Table of contents:
 ## Data Manage
 * [esvit/ng-table](https://github.com/esvit/ng-table) - Simple table with sorting and filtering on AngularJS
 * [huei90/angular-validation](https://github.com/huei90/angular-validation) - Client-side Validation for AngularJS
+* [formly-js/angular-formly](https://github.com/formly-js/angular-formly) - JavaScript powered forms
 * [kelp404/angular-validator](https://github.com/kelp404/angular-validator) - AngularJS form validation
 * [Textalk/angular-schema-form](https://github.com/Textalk/angular-schema-form) - Generate forms from a JSON schema, with AngularJS
 * [angular-ui/ng-grid](https://github.com/angular-ui/ng-grid) - UI Grid: an Angular Data Grid
