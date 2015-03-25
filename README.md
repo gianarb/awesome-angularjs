@@ -112,6 +112,9 @@ Table of contents:
 * [angular-ui/ng-grid](https://github.com/angular-ui/ng-grid) - UI Grid: an Angular Data Grid
 * [jbroquist/parse-angular](https://github.com/jbroquist/parse-angular) - Utilities for working with Parse.com data.
 * [laurihy/angular-payments](https://github.com/laurihy/angular-payments) - Module that provides AngularJS-directives for formatting, validating and working with payments
+* [lorenzofox3/Smart-Table](https://github.com/lorenzofox3/Smart-Table) - a table/grid for AngularJS
+* [vitalets/angular-xeditable](https://github.com/vitalets/angular-xeditable) - Edit in place for AngularJS
+* [MoonStorm/trNgGrid](https://github.com/MoonStorm/trNgGrid) - A feature rich Angular grid using standard HTML tables
 
 ## Developer
 * [angular/protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
