@@ -115,6 +115,7 @@ Table of contents:
 * [lorenzofox3/Smart-Table](https://github.com/lorenzofox3/Smart-Table) - a table/grid for AngularJS
 * [vitalets/angular-xeditable](https://github.com/vitalets/angular-xeditable) - Edit in place for AngularJS
 * [MoonStorm/trNgGrid](https://github.com/MoonStorm/trNgGrid) - A feature rich Angular grid using standard HTML tables
+* [ceolter/angular-grid](https://github.com/ceolter/angular-grid) - An Advanced Datagrid for AngularJS
 
 ## Developer
 * [angular/protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
