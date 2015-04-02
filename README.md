@@ -68,7 +68,7 @@ Table of contents:
 ## Directive
 * [zizzamia/ng-tasty](https://github.com/zizzamia/ng-tasty) - Lightweight, flexible, and tasty collection of reusable UI components for AngularJS, like grandma used to make. ( table directive, range filter )
 * [esvit/angular-social](https://github.com/esvit/angular-social) - Social like-buttons with counters for sites (even ajax sites)
-* [sroze/ngInfineScroll](https://github.com/sroze/ngInfiniteScroll/) - Infinite Scrolling for AngularJS
+* [sroze/ngInfiniteScroll](https://github.com/sroze/ngInfiniteScroll/) - Infinite Scrolling for AngularJS
 * [fraywing/textAngular/](https://github.com/fraywing/textAngular/) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js! Create multiple editor instances, two-way-bind HTML content, watch editors for changes and more!
 * [cgross/angular-busy](https://github.com/cgross/angular-busy) - Show busy/loading indicators on any element during $http requests
 * [lavinjj/angularjs-gravatardirective](https://github.com/lavinjj/angularjs-gravatardirective) - An AngularJS Gravatar Image Directive.
