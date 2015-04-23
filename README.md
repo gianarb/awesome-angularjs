@@ -62,11 +62,13 @@ Table of contents:
 ## Routing
 * [angular-ui/ui-utils](https://github.com/angular-ui/ui-utils) - Swiss-Army-Knife of AngularJS tools
 
+
 ## Filter
 * [jdpedrie/angularjs-camelCase-to-human-filter](https://github.com/jdpedrie/angularjs-camelCase-to-human-filter) - AngularJS Filter to convert camelCase strings to human readable strings
 
 ## Directive
 * [zizzamia/ng-tasty](https://github.com/zizzamia/ng-tasty) - Lightweight, flexible, and tasty collection of reusable UI components for AngularJS, like grandma used to make. ( table directive, range filter )
+* [tombatossals/angular-leaflet-directive](https://github.com/tombatossals/angular-leaflet-directive) - AngularJS directive to embed and interact with maps managed by Leaflet library.
 * [esvit/angular-social](https://github.com/esvit/angular-social) - Social like-buttons with counters for sites (even ajax sites)
 * [sroze/ngInfiniteScroll](https://github.com/sroze/ngInfiniteScroll/) - Infinite Scrolling for AngularJS
 * [fraywing/textAngular/](https://github.com/fraywing/textAngular/) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js! Create multiple editor instances, two-way-bind HTML content, watch editors for changes and more!
