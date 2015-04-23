@@ -62,6 +62,9 @@ Table of contents:
 ## Routing
 * [angular-ui/ui-utils](https://github.com/angular-ui/ui-utils) - Swiss-Army-Knife of AngularJS tools
 
+## Promises
+* [AngularJs and Promises](http://weblog.west-wind.com/posts/2014/Oct/24/AngularJs-and-Promises-with-the-http-Service)
+
 ## Filter
 * [jdpedrie/angularjs-camelCase-to-human-filter](https://github.com/jdpedrie/angularjs-camelCase-to-human-filter) - AngularJS Filter to convert camelCase strings to human readable strings
 
