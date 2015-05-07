@@ -35,6 +35,7 @@ Table of contents:
 * [meanjs/mean](https://github.com/meanjs/mean) - Mongo + ExpressJS + AngularJS + NodeJS boilerplate
 * [linnovate/mean](https://github.com/linnovate/mean) - Mongo + ExpressJS + AngularJS + NodeJS boilerplate by Linnovate
 * [melvin0008/laravel-angular](https://github.com/melvin0008/laravel-angular) - Laravel + AngularJS + CouchDB boilerplate by Melvin
+* [giorgiofellipe/ionic-angular-parse-boilerplate](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) - Ionic + AngularJS + Parse.com boilerplate by Giorgio Fellipe
 
 ## User Manager
 * [lynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for angular.js
