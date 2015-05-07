@@ -114,6 +114,7 @@ Table of contents:
 * [Textalk/angular-schema-form](https://github.com/Textalk/angular-schema-form) - Generate forms from a JSON schema, with AngularJS
 * [angular-ui/ng-grid](https://github.com/angular-ui/ng-grid) - UI Grid: an Angular Data Grid
 * [jbroquist/parse-angular](https://github.com/jbroquist/parse-angular) - Utilities for working with Parse.com data.
+* [jimrhoskins/angular-parse](https://github.com/jimrhoskins/angular-parse) - Module for interacting with the Parse REST API
 * [laurihy/angular-payments](https://github.com/laurihy/angular-payments) - Module that provides AngularJS-directives for formatting, validating and working with payments
 * [lorenzofox3/Smart-Table](https://github.com/lorenzofox3/Smart-Table) - a table/grid for AngularJS
 * [vitalets/angular-xeditable](https://github.com/vitalets/angular-xeditable) - Edit in place for AngularJS
