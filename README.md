@@ -35,6 +35,7 @@ Table of contents:
 * [meanjs/mean](https://github.com/meanjs/mean) - Mongo + ExpressJS + AngularJS + NodeJS boilerplate
 * [linnovate/mean](https://github.com/linnovate/mean) - Mongo + ExpressJS + AngularJS + NodeJS boilerplate by Linnovate
 * [melvin0008/laravel-angular](https://github.com/melvin0008/laravel-angular) - Laravel + AngularJS + CouchDB boilerplate by Melvin
+* [giorgiofellipe/ionic-angular-parse-boilerplate](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) - Ionic + AngularJS + Parse.com boilerplate by Giorgio Fellipe
 
 ## User Manager
 * [lynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for angular.js
@@ -113,6 +114,7 @@ Table of contents:
 * [Textalk/angular-schema-form](https://github.com/Textalk/angular-schema-form) - Generate forms from a JSON schema, with AngularJS
 * [angular-ui/ng-grid](https://github.com/angular-ui/ng-grid) - UI Grid: an Angular Data Grid
 * [jbroquist/parse-angular](https://github.com/jbroquist/parse-angular) - Utilities for working with Parse.com data.
+* [jimrhoskins/angular-parse](https://github.com/jimrhoskins/angular-parse) - Module for interacting with the Parse REST API
 * [laurihy/angular-payments](https://github.com/laurihy/angular-payments) - Module that provides AngularJS-directives for formatting, validating and working with payments
 * [lorenzofox3/Smart-Table](https://github.com/lorenzofox3/Smart-Table) - a table/grid for AngularJS
 * [vitalets/angular-xeditable](https://github.com/vitalets/angular-xeditable) - Edit in place for AngularJS
