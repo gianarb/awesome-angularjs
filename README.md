@@ -98,6 +98,7 @@ Table of contents:
 * [angular-ui/ui-sortable](https://github.com/angular-ui/ui-sortable) - AngularJS bindings for jQuery UI Sortable
 * [durated/angular-scroll](https://github.com/durated/angular-scroll) - Scrollspy, animated scrollTo and scroll events for angular.js
 * [jeffling/ng-tether](https://github.com/jeffling/ng-tether) - Angular wrapper for Tether: make absolutely positioned elements attach to elements in the page efficiently
+* [unosquare/tubular](https://github.com/unosquare/tubular) -AngularJS directives for grids and forms
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
