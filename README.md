@@ -23,6 +23,7 @@ Table of contents:
 ## Seed Projects
 * [ngbp/ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps
 * [vesparny/angular-kickstart](https://github.com/vesparny/angular-kickstart) - Speed up your AngularJS development and testing with a complete and scalable build system that scaffolds the project for you.
+* [okigan/angular-sensible-seed](https://github.com/okigan/angular-sensible-seed)  - Opinionated angular starter project with per feature directory structure, static content, gulp build system, integrated logo/search/ui-router/ui-bootstrap/less.
 * [angular/angular-seed](https://github.com/angular/angular-seed) - Seed project for angular apps.
 * [vesparny/angularjs-playground](https://github.com/vesparny/angularjs-playground) - A starting point that follows best-practices, for being up and running in minutes with angularJS
 * [kmaida/reStart-angular](https://github.com/kmaida/reStart-angular) - Responsive AngularJS seed project following styleguide best practices
