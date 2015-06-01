@@ -133,6 +133,7 @@ Table of contents:
 * [decipherinc/angular-debaser](https://github.com/decipherinc/angular-debaser/) - Just a better way to test AngularJS apps
 
 ## View
+* [AngularStrap](http://mgcrea.github.io/angular-strap) - AngularJS native directives for Bootstrap.
 * [Angular UI](http://angular-ui.github.io/) - Angular UI is the companion suite(s) to the AngularJS framework.
 * [Augus/ngAnimate](https://github.com/Augus/ngAnimate) - ngAnimate is best effect sulotion made for AngularJS
 * [btford/angular-modal](https://github.com/btford/angular-modal) - Simple AngularJS service for creating modals
