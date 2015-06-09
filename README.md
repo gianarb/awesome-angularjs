@@ -101,6 +101,7 @@ Table of contents:
 * [durated/angular-scroll](https://github.com/durated/angular-scroll) - Scrollspy, animated scrollTo and scroll events for angular.js
 * [jeffling/ng-tether](https://github.com/jeffling/ng-tether) - Angular wrapper for Tether: make absolutely positioned elements attach to elements in the page efficiently
 * [unosquare/tubular](https://github.com/unosquare/tubular) -AngularJS directives for grids and forms
+* [matowens/ng-notify](https://github.com/matowens/ng-notify) - A simple, lightweight module for displaying notifications in your AngularJS app
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
