@@ -169,7 +169,7 @@ Table of contents:
 ## Other
 * [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
 * [shyamseshadri/angularjs-book](https://github.com/shyamseshadri/angularjs-book) - Examples and Code snippets from the AngularJS O'Reilly book
-* [angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide) - A guide describing good programming practices for Angular JS
+* [johnpapa/angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide) - A starting point for Angular development teams to provide consistency through good practices
 * [angular-js.in](http://angular-js.in/) - A curated collection of angular directives
 * [mgechev/angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns) - This repository provides different look into AngularJS.
 * [Gillespie59/eslint-plugin-angular](https://github.com/Gillespie59/eslint-plugin-angular) - ESLint plugin for AngularJS application
