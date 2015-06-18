@@ -50,6 +50,7 @@ Table of contents:
 * [ajoslin/angular-mobile-nav](https://github.com/ajoslin/angular-mobile-nav) - An angular navigation service for mobile applications
 * [driftyco/ng-cordova](https://github.com/driftyco/ng-cordova/) - AngularJS Cordova wrappers for common Cordova plugins
 * [revolunet/angular-carousel](https://github.com/revolunet/angular-carousel) - Mobile friendly AngularJS carousel
+* [driftyco/ionic](https://github.com/driftyco/ionic) - Advanced HTML5 Hybrid Mobile App Framework
 
 ## Web Service
 * [mgonto/restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
