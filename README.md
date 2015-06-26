@@ -175,3 +175,9 @@ Table of contents:
 * [angular-js.in](http://angular-js.in/) - A curated collection of angular directives
 * [mgechev/angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns) - This repository provides different look into AngularJS.
 * [Gillespie59/eslint-plugin-angular](https://github.com/Gillespie59/eslint-plugin-angular) - ESLint plugin for AngularJS application
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Gianluca Arbezzano](http://gianarb.it) has waived all copyright and related or neighboring rights to this work.
