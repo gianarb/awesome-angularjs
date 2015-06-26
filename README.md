@@ -165,7 +165,6 @@ Table of contents:
 
 ## Task
 * [ericclemmons/grunt-angular-templates](https://github.com/ericclemmons/grunt-angular-templates) - Grunt build task to concatenate & pre-load your AngularJS templates
-* [jdpedrie/grunt-angular-package](https://github.com/jdpedrie/grunt-angular-package) - Add assets for angular packages to your app's index.html file
 * [Kagami/gulp-ng-annotate](https://github.com/Kagami/gulp-ng-annotate) - Add angularjs dependency injection annotations with ng-annotate
 * [jeffling/ngmin-webpack-plugin](https://github.com/jeffling/ngmin-webpack-plugin) - Webpack plugin for injection of annotations (for pre-minimization)
 
