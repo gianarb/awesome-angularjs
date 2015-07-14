@@ -126,6 +126,7 @@ Table of contents:
 * [vitalets/angular-xeditable](https://github.com/vitalets/angular-xeditable) - Edit in place for AngularJS
 * [MoonStorm/trNgGrid](https://github.com/MoonStorm/trNgGrid) - A feature rich Angular grid using standard HTML tables
 * [ceolter/angular-grid](https://github.com/ceolter/angular-grid) - An Advanced Datagrid for AngularJS
+* [mattiash/angular-tablesort](https://github.com/mattiash/angular-tablesort) - Sort angularjs tables easily
 
 ## Developer
 * [angular/protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
