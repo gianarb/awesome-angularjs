@@ -104,6 +104,7 @@ Table of contents:
 * [jeffling/ng-tether](https://github.com/jeffling/ng-tether) - Angular wrapper for Tether: make absolutely positioned elements attach to elements in the page efficiently
 * [unosquare/tubular](https://github.com/unosquare/tubular) -AngularJS directives for grids and forms
 * [matowens/ng-notify](https://github.com/matowens/ng-notify) - A simple, lightweight module for displaying notifications in your AngularJS app
+* [dragular](https://github.com/luckylooke/dragular) - Angular drag and drop based on dragula.js
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
