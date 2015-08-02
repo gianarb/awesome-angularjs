@@ -165,6 +165,14 @@ Table of contents:
 * [Kagami/gulp-ng-annotate](https://github.com/Kagami/gulp-ng-annotate) - Add angularjs dependency injection annotations with ng-annotate
 * [jeffling/ngmin-webpack-plugin](https://github.com/jeffling/ngmin-webpack-plugin) - Webpack plugin for injection of annotations (for pre-minimization)
 
+## TodoMVC
+*[angular-dart](https://github.com/tastejs/todomvc/tree/master/examples/angular-dart)
+*[angular2](https://github.com/tastejs/todomvc/tree/master/examples/angular2)
+*[angularjs-perf](https://github.com/tastejs/todomvc/tree/master/examples/angularjs-perf)
+*[angularjs](https://github.com/tastejs/todomvc/tree/master/examples/angularjs)
+*[angularjs_require](https://github.com/tastejs/todomvc/tree/master/examples/angularjs_require)
+*[typescript-angular](https://github.com/tastejs/todomvc/tree/master/examples/typescript-angular)
+
 ## Other
 * [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
 * [shyamseshadri/angularjs-book](https://github.com/shyamseshadri/angularjs-book) - Examples and Code snippets from the AngularJS O'Reilly book
