@@ -105,6 +105,7 @@ Table of contents:
 * [unosquare/tubular](https://github.com/unosquare/tubular) -AngularJS directives for grids and forms
 * [matowens/ng-notify](https://github.com/matowens/ng-notify) - A simple, lightweight module for displaying notifications in your AngularJS app
 * [dragular](https://github.com/luckylooke/dragular) - Angular drag and drop based on dragula.js
+* [hrajchert/angular-screenfull](https://github.com/hrajchert/angular-screenfull) - Binding to use the HTML5 fullscreen API using directives and directives controllers.
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
