@@ -186,6 +186,7 @@ Table of contents:
 * [angular-js.in](http://angular-js.in/) - A curated collection of angular directives
 * [mgechev/angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns) - This repository provides different look into AngularJS.
 * [Gillespie59/eslint-plugin-angular](https://github.com/Gillespie59/eslint-plugin-angular) - ESLint plugin for AngularJS application
+* [kasperlewau/angular-bind-notifier](https://github.com/kasperlewau/angular-bind-notifier) - Low $watch count namespaced Angular bindings, i.e. refreshment of one-way binds.
 
 ## License
 
