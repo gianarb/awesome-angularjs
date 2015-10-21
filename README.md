@@ -108,6 +108,7 @@ Table of contents:
 * [hrajchert/angular-screenfull](https://github.com/hrajchert/angular-screenfull) - Binding to use the HTML5 fullscreen API using directives and directives controllers.
 * [StevenLambion/ui-listView](https://github.com/StevenLambion/ui-listView) - An efficient, dynamic list view for angular.
 * [Sattvabit/angular-material-checkbox](https://github.com/Sattvabit/angular-material-checkbox) - Simple angular check-box/toggle button directive using Google material design icons.
+* * [tushariscoolster/ng-sweet-alert](https://github.com/tushariscoolster/ng-sweet-alert) - Sweetalert directive for angular js( angular sweetalert), without writing single javascript code.
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
