@@ -1,5 +1,5 @@
 # Awesome AngularJs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of awesome [AngularJs](http://angularjs.org) services, directives, utilities and resources.
+A list of awesome [AngularJs](https://angularjs.org/) services, directives, utilities and resources.
 
 Table of contents:
 * [Seed Projects](#seed-projects)
@@ -43,7 +43,7 @@ Table of contents:
 ## User Manager
 * [lynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for angular.js
 * [andreareginato/oauth-ng](https://github.com/andreareginato/oauth-ng) - AngularJS directive for the OAuth 2.0 Implicit Flow
-* [enginous/angular-oauth](https://github.com/enginous/angular-oauth) - Client-side (implicit grant) OAuth 2.0 authorization flow for AngularJS
+* [enginous/angular-oauth](https://github.com/angular-oauth/angular-oauth) - Client-side (implicit grant) OAuth 2.0 authorization flow for AngularJS
 * [witoldsz/angular-http-auth](https://github.com/witoldsz/angular-http-auth) - HTTP Auth Interceptor Module
 * [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 
@@ -60,7 +60,7 @@ Table of contents:
 * [platanus/angular-restmod](https://github.com/platanus/angular-restmod) - Rails inspired REST-API ORM for Angular
 
 ## Asset Manager
-* [danialfarid/angular-file-upload](https://github.com/danialfarid/angular-file-upload) - An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers
+* [danialfarid/angular-file-upload](https://github.com/danialfarid/ng-file-upload) - An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers
 * [urish/angular-load](https://github.com/urish/angular-load) - Dynamically load scripts and css stylesheets in your Angular.JS app
 * [flowjs/ng-flow](https://github.com/flowjs/ng-flow) - Flow.js html5 file upload extension on angular.js framework
 
@@ -101,7 +101,7 @@ Table of contents:
 * [c0bra/angular-responsive-images](https://github.com/c0bra/angular-responsive-images) - Angular responsive images
 * [angular-ui/ui-sortable](https://github.com/angular-ui/ui-sortable) - AngularJS bindings for jQuery UI Sortable
 * [durated/angular-scroll](https://github.com/durated/angular-scroll) - Scrollspy, animated scrollTo and scroll events for angular.js
-* [jeffling/ng-tether](https://github.com/jeffling/ng-tether) - Angular wrapper for Tether: make absolutely positioned elements attach to elements in the page efficiently
+* [jeffling/ng-tether](https://github.com/jeffling/angular-jl-tether) - Angular wrapper for Tether: make absolutely positioned elements attach to elements in the page efficiently
 * [unosquare/tubular](https://github.com/unosquare/tubular) -AngularJS directives for grids and forms
 * [matowens/ng-notify](https://github.com/matowens/ng-notify) - A simple, lightweight module for displaying notifications in your AngularJS app
 * [dragular](https://github.com/luckylooke/dragular) - Angular drag and drop based on dragula.js
@@ -114,7 +114,7 @@ Table of contents:
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
 * [grevory/angular-local-storage](https://github.com/grevory/angular-local-storage) - An AngularJS module that gives you access to the browsers local storage with cookie fallback
 * [jmdobry/angular-cache](https://github.com/jmdobry/angular-cache) - angular-cache is a very useful replacement for Angular's $cacheFactory.
-* [jmdobry/angular-data](https://github.com/jmdobry/angular-data) - Data store for Angular.js
+* [jmdobry/angular-data](https://github.com/js-data/js-data-angular) - Data store for Angular.js
 * [webcss/angular-indexedDB](https://github.com/webcss/angular-indexedDB) - An angularjs serviceprovider to utilize indexedDB with angular
 
 ## Data Manage
@@ -123,7 +123,7 @@ Table of contents:
 * [formly-js/angular-formly](https://github.com/formly-js/angular-formly) - JavaScript powered forms
 * [kelp404/angular-validator](https://github.com/kelp404/angular-validator) - AngularJS form validation
 * [Textalk/angular-schema-form](https://github.com/Textalk/angular-schema-form) - Generate forms from a JSON schema, with AngularJS
-* [angular-ui/ng-grid](https://github.com/angular-ui/ng-grid) - UI Grid: an Angular Data Grid
+* [angular-ui/ng-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid
 * [jbroquist/parse-angular](https://github.com/jbroquist/parse-angular) - Utilities for working with Parse.com data.
 * [jimrhoskins/angular-parse](https://github.com/jimrhoskins/angular-parse) - Module for interacting with the Parse REST API
 * [laurihy/angular-payments](https://github.com/laurihy/angular-payments) - Module that provides AngularJS-directives for formatting, validating and working with payments
@@ -138,11 +138,11 @@ Table of contents:
 * [matthieu-D/angular-lorem-image](https://github.com/matthieu-D/angular-lorem-image) - This directive provides lorem image generation for your website by using the great lorempixel service to generate images
 * [ajoslin/angular-promise-tracker](https://github.com/ajoslin/angular-promise-tracker) - Easily add spinners or general request tracking to your angular app
 * [yeoman/generator-angular](https://github.com/yeoman/generator-angular) - yeoman/generator-angular
-* [angular/angularjs-batarang](https://github.com/angular/angularjs-batarang) - AngularJS WebInspector Extension for Chrome
+* [angular/angularjs-batarang](https://github.com/angular/batarang) - AngularJS WebInspector Extension for Chrome
 * [decipherinc/angular-debaser](https://github.com/decipherinc/angular-debaser/) - Just a better way to test AngularJS apps
 
 ## View
-* [AngularStrap](http://mgcrea.github.io/angular-strap) - AngularJS native directives for Bootstrap.
+* [AngularStrap](http://mgcrea.github.io/angular-strap/) - AngularJS native directives for Bootstrap.
 * [Angular UI](http://angular-ui.github.io/) - Angular UI is the companion suite(s) to the AngularJS framework.
 * [Augus/ngAnimate](https://github.com/Augus/ngAnimate) - ngAnimate is best effect solution made for AngularJS
 * [btford/angular-modal](https://github.com/btford/angular-modal) - Simple AngularJS service for creating modals
@@ -167,7 +167,7 @@ Table of contents:
 * [bouil/angular-google-chart](https://github.com/bouil/angular-google-chart) - Google Chart Tools AngularJS Directive Module
 * [chinmaymk/angular-charts](https://github.com/chinmaymk/angular-charts) - angular directives for creating common charts using d3
 * [carlcraig/tc-angular-chartjs](https://github.com/carlcraig/tc-angular-chartjs) - Add Chart.js charts to your angular application
-* [stpa-co/angular-morris-chart](https://github.com/stpa-co/angular-morris-chart) - Create morris chart easily with this directives
+* [stpa-co/angular-morris-chart](https://github.com/stewones/angular-morris-chart) - Create morris chart easily with this directives
 
 ## Task
 * [ericclemmons/grunt-angular-templates](https://github.com/ericclemmons/grunt-angular-templates) - Grunt build task to concatenate & pre-load your AngularJS templates
@@ -185,7 +185,7 @@ Table of contents:
 ## Other
 * [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
 * [shyamseshadri/angularjs-book](https://github.com/shyamseshadri/angularjs-book) - Examples and Code snippets from the AngularJS O'Reilly book
-* [johnpapa/angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide) - A starting point for Angular development teams to provide consistency through good practices
+* [johnpapa/angularjs-styleguide](https://github.com/johnpapa/angular-styleguide) - A starting point for Angular development teams to provide consistency through good practices
 * [angular-js.in](http://angular-js.in/) - A curated collection of angular directives
 * [mgechev/angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns) - This repository provides different look into AngularJS.
 * [Gillespie59/eslint-plugin-angular](https://github.com/Gillespie59/eslint-plugin-angular) - ESLint plugin for AngularJS application
