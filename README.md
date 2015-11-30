@@ -154,7 +154,7 @@ Table of contents:
 * [pineconellc/angular-foundation](https://github.com/pineconellc/angular-foundation) - This project is a port of the AngularUI team's excellent angular-bootstrap project for use in the Foundation framework.
 * [kendo-labs/angular-kendo](https://github.com/kendo-labs/angular-kendo) - A project to create a robust set of AngularJS bindings for Kendo UI widgets.
 * [angular-ui/angular-google-maps](https://github.com/angular-ui/angular-google-maps) - AngularJS directives for the Google Maps Javascript API.
-* [luisfarzati/angulartics](https://github.com/luisfarzati/angulartics) - Analytics for AngularJS applications.
+* [angulartics/angulartics](https://github.com/angulartics/angulartics) - Analytics for AngularJS applications.
 * [Ciul/angular-facebook](https://github.com/Ciul/angular-facebook) - An AngularJS module based approach to the Facebook Javascript SDK.
 * [pc035860/angular-easyfb](https://github.com/pc035860/angular-easyfb) - Super easy AngularJS + Facebook JavaScript SDK.
 
