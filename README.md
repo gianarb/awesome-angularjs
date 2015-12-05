@@ -109,6 +109,7 @@ Table of contents:
 * [StevenLambion/ui-listView](https://github.com/StevenLambion/ui-listView) - An efficient, dynamic list view for AngularJS.
 * [Sattvabit/angular-material-checkbox](https://github.com/Sattvabit/angular-material-checkbox) - Simple AngularJS check-box/toggle button directive using Google material design icons.
 * [tushariscoolster/ng-sweet-alert](https://github.com/tushariscoolster/ng-sweet-alert) - Sweetalert directive for AngularJS, without writing single javascript code.
+* [gkaimakas/angular.validators](https://github.com/gkaimakas/angular.validators) - Angular validation directives for forms. A port of validator.js
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
