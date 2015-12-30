@@ -120,6 +120,7 @@ Table of contents:
 * [webcss/angular-indexedDB](https://github.com/webcss/angular-indexedDB) - An AngularJS serviceprovider to utilize indexedDB with AngularJS.
 
 ## Data Manage
+* [kogosoftwarellc/angular-async-form](https://github.com/kogosoftwarellc/angular-async-form) - Async form handling the angular way.
 * [esvit/ng-table](https://github.com/esvit/ng-table) - Simple table with sorting and filtering on AngularJS.
 * [huei90/angular-validation](https://github.com/huei90/angular-validation) - Client-side Validation for AngularJS.
 * [formly-js/angular-formly](https://github.com/formly-js/angular-formly) - JavaScript powered forms.
