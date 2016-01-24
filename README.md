@@ -68,6 +68,7 @@ Table of contents:
 
 ## Routing
 * [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS.
+* [rpocklin/ui-router-tabs](https://github.com/rpocklin/ui-router-tabs) - Leverages UI Bootstrap and UI Router to give you full-strength route-driven tabs in Angular.js.
 
 ## Filter
 * [jdpedrie/angularjs-camelCase-to-human-filter](https://github.com/jdpedrie/angularjs-camelCase-to-human-filter) - AngularJS Filter to convert camelCase strings to human readable strings.
