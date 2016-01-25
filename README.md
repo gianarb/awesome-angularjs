@@ -21,6 +21,7 @@ Table of contents:
 * [Other](#other)
 
 ## Seed Projects
+* [AngularClass/NG6-starter](https://github.com/AngularClass/NG6-starter) - An AngularJS Starter repo for Angular + ES6 + (Webpack or JSPM) by [@AngularClass](https://github.com/AngularClass).
 * [flatlogic/angular-material-dashboard](https://github.com/flatlogic/angular-material-dashboard) - Angular admin dashboard with material design
 * [ngbp/ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps
 * [vesparny/angular-kickstart](https://github.com/vesparny/angular-kickstart) - Speed up your AngularJS development and testing with a complete and scalable build system that scaffolds the project for you.
