@@ -121,6 +121,7 @@ Table of contents:
 * [jmdobry/angular-cache](https://github.com/jmdobry/angular-cache) - angular-cache is a very useful replacement for AngularJS's $cacheFactory.
 * [jmdobry/angular-data](https://github.com/js-data/js-data-angular) - Data store for AngularJS.
 * [webcss/angular-indexedDB](https://github.com/webcss/angular-indexedDB) - An AngularJS serviceprovider to utilize indexedDB with AngularJS.
+* [tymondesigns/angular-locker](https://github.com/tymondesigns/angular-locker) - A simple, configurable & fluent abstraction for local/session storage in angular projects.
 
 ## Data Manage
 * [kogosoftwarellc/angular-async-form](https://github.com/kogosoftwarellc/angular-async-form) - Async form handling the angular way.
