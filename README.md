@@ -67,6 +67,7 @@ Table of contents:
 * [danialfarid/angular-file-upload](https://github.com/danialfarid/ng-file-upload) - An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers.
 * [urish/angular-load](https://github.com/urish/angular-load) - Dynamically load scripts and css stylesheets in your AngularJS app.
 * [flowjs/ng-flow](https://github.com/flowjs/ng-flow) - Flow.js html5 file upload extension on AngularJS framework.
+* [joni2back/angular-filemanager](https://github.com/joni2back/angular-filemanager) - JavaScript HTML5 File Management Material Design Folder Explorer Navigator Browser Manager in AngularJS (with FTP in PHP / Java).
 
 ## Routing
 * [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS.
@@ -114,6 +115,8 @@ Table of contents:
 * [Sattvabit/angular-material-checkbox](https://github.com/Sattvabit/angular-material-checkbox) - Simple AngularJS check-box/toggle button directive using Google material design icons.
 * [tushariscoolster/ng-sweet-alert](https://github.com/tushariscoolster/ng-sweet-alert) - Sweetalert directive for AngularJS, without writing single javascript code.
 * [gkaimakas/angular.validators](https://github.com/gkaimakas/angular.validators) - Angular validation directives for forms. A port of validator.js
+* [Foxandxss/angular-toastr](https://github.com/Foxandxss/angular-toastr) - Angular port of CodeSeven/toastr.
+* [jirikavi/AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster) - AngularJS Toaster is a customized version of "toastr" non-blocking notification javascript library.
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
