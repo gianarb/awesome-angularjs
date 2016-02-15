@@ -150,6 +150,7 @@ Table of contents:
 * [yeoman/generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS apps.
 * [angular/angularjs-batarang](https://github.com/angular/batarang) - AngularJS WebInspector Extension for Chrome.
 * [decipherinc/angular-debaser](https://github.com/decipherinc/angular-debaser/) - Just a better way to test AngularJS apps.
+* [outbrain/leonardo](https://github.com/outbrain/Leonardo) - Add-on tool for centralizing your client side mocking.
 
 ## View
 * [AngularStrap](http://mgcrea.github.io/angular-strap/) - AngularJS native directives for Bootstrap.
