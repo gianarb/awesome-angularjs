@@ -117,6 +117,7 @@ Table of contents:
 * [gkaimakas/angular.validators](https://github.com/gkaimakas/angular.validators) - Angular validation directives for forms. A port of validator.js
 * [Foxandxss/angular-toastr](https://github.com/Foxandxss/angular-toastr) - Angular port of CodeSeven/toastr.
 * [jirikavi/AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster) - AngularJS Toaster is a customized version of "toastr" non-blocking notification javascript library.
+* [angular-slider/angularjs-slider](https://github.com/angular-slider/angularjs-slider) - Slider directive for AngularJS. No dependencies and mobile friendly.
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
