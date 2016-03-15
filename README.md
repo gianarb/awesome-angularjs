@@ -62,6 +62,7 @@ Table of contents:
 * [chinmaymk/angular-cog](https://github.com/chinmaymk/angular-cog) - declarative ajax requests for AngularJS.
 * [tkambler/bonegular](https://github.com/tkambler/bonegular) - Backbone-Inspired Models and Collections for AngularJS.
 * [platanus/angular-restmod](https://github.com/platanus/angular-restmod) - Rails inspired REST-API ORM for AngularJS.
+* [JohnnyTheTank/apiNG](https://github.com/JohnnyTheTank/apiNG) - AngularJS modules to handle Rest API requests via html-attributes and much more
 
 ## Asset Manager
 * [danialfarid/angular-file-upload](https://github.com/danialfarid/ng-file-upload) - An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers.
