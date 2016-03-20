@@ -65,7 +65,8 @@ Table of contents:
 * [JohnnyTheTank/apiNG](https://github.com/JohnnyTheTank/apiNG) - AngularJS modules to handle Rest API requests via html-attributes and much more
 
 ## Asset Manager
-* [danialfarid/angular-file-upload](https://github.com/danialfarid/ng-file-upload) - An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers.
+* [danialfarid/ng-file-upload](https://github.com/danialfarid/ng-file-upload) - An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers.
+* [nervgh/angular-file-upload](https://github.com/nervgh/angular-file-upload) - Angular File Upload is a module for the AngularJS framework.
 * [urish/angular-load](https://github.com/urish/angular-load) - Dynamically load scripts and css stylesheets in your AngularJS app.
 * [flowjs/ng-flow](https://github.com/flowjs/ng-flow) - Flow.js html5 file upload extension on AngularJS framework.
 * [joni2back/angular-filemanager](https://github.com/joni2back/angular-filemanager) - JavaScript HTML5 File Management Material Design Folder Explorer Navigator Browser Manager in AngularJS (with FTP in PHP / Java).
