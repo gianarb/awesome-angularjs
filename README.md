@@ -43,6 +43,7 @@ Table of contents:
 * [giorgiofellipe/ionic-angular-parse-boilerplate](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) - Ionic + AngularJS + Parse.com boilerplate by Giorgio Fellipe.
 * [the-front/angularjs-ee-boilerplate](https://github.com/the-front/angularjs-ee-boilerplate) - This boilerplate (seed project, starting project) helps you build large scale AngularJS applications with Require.js by Erko Bridee.
 * [ziyasal/ng-espack-boilerplate](https://github.com/ziyasal/ng-espack-boilerplate) - AngularJS 1.4x and ES6 application boilerplate /w testing practices using Webpack
+* [akveo/blur-admin](https://github.com/akveo/blur-admin) - Free premium Angular 1.x Bootsrap Admin dashboard
 
 ## User Manager
 * [lynndylanhurley/ng-token-auth](https://github.com/lynndylanhurley/ng-token-auth) - Token based authentication module for AngularJS.
