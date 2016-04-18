@@ -1,5 +1,5 @@
 # Awesome AngularJS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A list of awesome [AngularJS](https://angularjs.org/) services, directives, utilities and resources.
+A list of awesome [AngularJS](https://angularjs.org/) services, directives, filters, utilities and resources.
 
 Table of contents:
 * [Seed Projects](#seed-projects)
@@ -155,6 +155,8 @@ Table of contents:
 * [angular/angularjs-batarang](https://github.com/angular/batarang) - AngularJS WebInspector Extension for Chrome.
 * [decipherinc/angular-debaser](https://github.com/decipherinc/angular-debaser/) - Just a better way to test AngularJS apps.
 * [outbrain/leonardo](https://github.com/outbrain/Leonardo) - Add-on tool for centralizing your client side mocking.
+* [rev087/ng-inspector](https://github.com/rev087/ng-inspector) - A browser extension that displays an inspector panel showing the AngularJS scope hierarchy in the current page in real time.
+* [Linkurious/angular-performance](https://github.com/Linkurious/angular-performance) - A chrome extension aimed at monitoring angular application performance.
 
 ## View
 * [AngularStrap](http://mgcrea.github.io/angular-strap/) - AngularJS native directives for Bootstrap.
