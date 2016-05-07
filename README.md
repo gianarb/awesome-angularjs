@@ -123,6 +123,7 @@ Table of contents:
 * [Foxandxss/angular-toastr](https://github.com/Foxandxss/angular-toastr) - Angular port of CodeSeven/toastr.
 * [jirikavi/AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster) - AngularJS Toaster is a customized version of "toastr" non-blocking notification javascript library.
 * [angular-slider/angularjs-slider](https://github.com/angular-slider/angularjs-slider) - Slider directive for AngularJS. No dependencies and mobile friendly.
+* [ngReact/ngReact](https://github.com/ngReact/ngReact) - Use React Components in Angular.
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
@@ -176,6 +177,7 @@ Table of contents:
 * [angulartics/angulartics](https://github.com/angulartics/angulartics) - Analytics for AngularJS applications.
 * [Ciul/angular-facebook](https://github.com/Ciul/angular-facebook) - An AngularJS module based approach to the Facebook Javascript SDK.
 * [pc035860/angular-easyfb](https://github.com/pc035860/angular-easyfb) - Super easy AngularJS + Facebook JavaScript SDK.
+* [Orange-OpenSource/angular-swagger-ui](https://github.com/Orange-OpenSource/angular-swagger-ui) - An AngularJS implementation of Swagger UI.
 
 ## Internationalization
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate) - i18n in your AngularJS apps, made easy.
