@@ -124,6 +124,7 @@ Table of contents:
 * [jirikavi/AngularJS-Toaster](https://github.com/jirikavi/AngularJS-Toaster) - AngularJS Toaster is a customized version of "toastr" non-blocking notification javascript library.
 * [angular-slider/angularjs-slider](https://github.com/angular-slider/angularjs-slider) - Slider directive for AngularJS. No dependencies and mobile friendly.
 * [ngReact/ngReact](https://github.com/ngReact/ngReact) - Use React Components in Angular.
+* [m00s/angular-photoswipe](https://github.com/m00s/angular-photoswipe) - An angular directive for PhotoSwipe image gallery.
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
@@ -160,6 +161,7 @@ Table of contents:
 * [outbrain/leonardo](https://github.com/outbrain/Leonardo) - Add-on tool for centralizing your client side mocking.
 * [rev087/ng-inspector](https://github.com/rev087/ng-inspector) - A browser extension that displays an inspector panel showing the AngularJS scope hierarchy in the current page in real time.
 * [Linkurious/angular-performance](https://github.com/Linkurious/angular-performance) - A chrome extension aimed at monitoring angular application performance.
+* [ocombe/ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Lazy load modules & components in AngularJS.
 
 ## View
 * [AngularStrap](http://mgcrea.github.io/angular-strap/) - AngularJS native directives for Bootstrap.
