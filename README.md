@@ -164,6 +164,7 @@ Table of contents:
 * [ocombe/ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Lazy load modules & components in AngularJS.
 
 ## View
+* [Angular Material](https://material.angularjs.org) - A set of reusable, well-tested, and accessible UI components based on Material Design.
 * [AngularStrap](http://mgcrea.github.io/angular-strap/) - AngularJS native directives for Bootstrap.
 * [Angular UI](http://angular-ui.github.io/) - Angular UI is the companion suite(s) to the AngularJS framework.
 * [Augus/ngAnimate](https://github.com/Augus/ngAnimate) - ngAnimate is best effect solution made for AngularJS.
