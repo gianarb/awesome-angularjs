@@ -193,6 +193,7 @@ Table of contents:
 * [chinmaymk/angular-charts](https://github.com/chinmaymk/angular-charts) - angular directives for creating common charts using d3.
 * [carlcraig/tc-angular-chartjs](https://github.com/carlcraig/tc-angular-chartjs) - Add Chart.js charts to your AngularJS application.
 * [stpa-co/angular-morris-chart](https://github.com/stewones/angular-morris-chart) - Create morris chart easily with this directives.
+* [jtblin/angular-chart.js](https://github.com/jtblin/angular-chart.js) - Reactive, responsive, beautiful charts using Chart.js
 
 ## Task
 * [ericclemmons/grunt-angular-templates](https://github.com/ericclemmons/grunt-angular-templates) - Grunt build task to concatenate & pre-load your AngularJS templates.
