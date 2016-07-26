@@ -125,6 +125,7 @@ Table of contents:
 * [angular-slider/angularjs-slider](https://github.com/angular-slider/angularjs-slider) - Slider directive for AngularJS. No dependencies and mobile friendly.
 * [ngReact/ngReact](https://github.com/ngReact/ngReact) - Use React Components in Angular.
 * [m00s/angular-photoswipe](https://github.com/m00s/angular-photoswipe) - An angular directive for PhotoSwipe image gallery.
+* [benjamincharity/angular-json-calendar](https://github.com/benjamincharity/angular-json-calendar) - An Angular module that generates calendar data as a JSON object and/or HTML.
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
