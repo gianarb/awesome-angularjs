@@ -157,6 +157,7 @@ Table of contents:
 * [matthieu-D/angular-lorem-image](https://github.com/matthieu-D/angular-lorem-image) - This directive provides lorem image generation for your website by using the great lorempixel service to generate images.
 * [ajoslin/angular-promise-tracker](https://github.com/ajoslin/angular-promise-tracker) - Easily add spinners or general request tracking to your AngularJS app.
 * [yeoman/generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS apps.
+* [dustinspecker/generator-ng-poly](https://github.com/dustinspecker/generator-ng-poly) - Yeoman generator for AngularJS apps with customizable tooling. Adheres to John Papa and Todd Motto style guides, and features many robust subgenerators.
 * [angular/angularjs-batarang](https://github.com/angular/batarang) - AngularJS WebInspector Extension for Chrome.
 * [decipherinc/angular-debaser](https://github.com/decipherinc/angular-debaser/) - Just a better way to test AngularJS apps.
 * [outbrain/leonardo](https://github.com/outbrain/Leonardo) - Add-on tool for centralizing your client side mocking.
