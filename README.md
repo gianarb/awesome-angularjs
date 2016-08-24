@@ -45,6 +45,7 @@ Table of contents:
 * [ziyasal/ng-espack-boilerplate](https://github.com/ziyasal/ng-espack-boilerplate) - AngularJS 1.4x and ES6 application boilerplate /w testing practices using Webpack
 * [akveo/blur-admin](https://github.com/akveo/blur-admin) - Free premium Angular 1.x Bootsrap Admin dashboard
 * [gusgard/angular-seed-es6](https://github.com/gusgard/angular-seed-es6) - AngularJS 1.5 starter repo using best practices + ES6 + SASS + Browserify + BrowserSync.
+* [simskij/angular-seed](https://github.com/simskij/angular-seed) AngularJS 1.5 Seed + Premade Gulp scripts and project directory layout.
 
 
 ## User Manager
