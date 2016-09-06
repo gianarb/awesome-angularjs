@@ -128,6 +128,7 @@ Table of contents:
 * [m00s/angular-photoswipe](https://github.com/m00s/angular-photoswipe) - An angular directive for PhotoSwipe image gallery.
 * [benjamincharity/angular-json-calendar](https://github.com/benjamincharity/angular-json-calendar) - An AngularJS module that generates calendar data as a JSON object and/or HTML.
 * [kirstein/angular-autodisable](https://github.com/kirstein/angular-autodisable) - An extension to angular ng-click directive that automatically sets the element to disabled if the handler would return a promise.
+* [benjamincharity/angular-keypad](https://github.com/benjamincharity/angular-keypad) - :iphone::1234: A numerical keypad built for mobile devices.
 
 ## Storage
 * [gsklee/ngStorage](https://github.com/gsklee/ngStorage) - localStorage and sessionStorage done right for AngularJS.
