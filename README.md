@@ -194,7 +194,7 @@ Table of contents:
 ## Chart
 * [n3-charts/line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS.
 * [bouil/angular-google-chart](https://github.com/bouil/angular-google-chart) - Google Chart Tools AngularJS Directive Module.
-* [krispo/angular-nvd3](https://github.com/krispo/angular-nvd3) - angular directive using NVD3 charting library (based on d3). 
+* [krispo/angular-nvd3](https://github.com/krispo/angular-nvd3) - angular directive using NVD3 charting library (based on d3).
 * [chinmaymk/angular-charts](https://github.com/chinmaymk/angular-charts) - angular directives for creating common charts using d3.
 * [carlcraig/tc-angular-chartjs](https://github.com/carlcraig/tc-angular-chartjs) - Add Chart.js charts to your AngularJS application.
 * [stpa-co/angular-morris-chart](https://github.com/stewones/angular-morris-chart) - Create morris chart easily with this directives.
@@ -221,6 +221,7 @@ Table of contents:
 * [mgechev/angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns) - This repository provides different look into AngularJS.
 * [Gillespie59/eslint-plugin-angular](https://github.com/Gillespie59/eslint-plugin-angular) - ESLint plugin for AngularJS application.
 * [kasperlewau/angular-bind-notifier](https://github.com/kasperlewau/angular-bind-notifier) - Low $watch count namespaced AngularJS bindings, i.e. refreshment of one-way binds.
+* [Aqu1nt/ng-next](https://github.com/Aqu1nt/ng-next) - A very simple and elegant way to use AngularJS 1.x with ES6 / ES7.
 
 ## License
 
