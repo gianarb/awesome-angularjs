@@ -214,6 +214,7 @@ Table of contents:
 * [typescript-angular](https://github.com/tastejs/todomvc/tree/master/examples/typescript-angular)
 
 ## Other
+* [toddmotto/angular-styleguide](https://github.com/toddmotto/angular-styleguide) - Angular styleguide for teams.
 * [mgechev/angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development.
 * [shyamseshadri/angularjs-book](https://github.com/shyamseshadri/angularjs-book) - Examples and Code snippets from the AngularJS O'Reilly book.
 * [johnpapa/angularjs-styleguide](https://github.com/johnpapa/angular-styleguide) - A starting point for AngularJS development teams to provide consistency through good practices.
