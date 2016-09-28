@@ -60,6 +60,7 @@ Table of contents:
 * [driftyco/ng-cordova](https://github.com/driftyco/ng-cordova/) - AngularJS Cordova wrappers for common Cordova plugins.
 * [revolunet/angular-carousel](https://github.com/revolunet/angular-carousel) - Mobile friendly AngularJS carousel.
 * [driftyco/ionic](https://github.com/driftyco/ionic) - Advanced HTML5 Hybrid Mobile App Framework.
+* [NativeScript](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with AngularJS.
 
 ## Web Service
 * [mgonto/restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily.
