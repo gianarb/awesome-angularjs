@@ -54,6 +54,7 @@ Table of contents:
 * [enginous/angular-oauth](https://github.com/angular-oauth/angular-oauth) - Client-side (implicit grant) OAuth 2.0 authorization flow for AngularJS.
 * [witoldsz/angular-http-auth](https://github.com/witoldsz/angular-http-auth) - HTTP Auth Interceptor Module.
 * [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication.
+* [userapp-angular](https://github.com/userapp-io/userapp-angular) - Adds user authentication to your app with UserApp.
 
 ## Mobile
 * [ajoslin/angular-mobile-nav](https://github.com/ajoslin/angular-mobile-nav) - An AngularJS navigation service for mobile applications.
