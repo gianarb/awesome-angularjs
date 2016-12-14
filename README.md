@@ -208,7 +208,7 @@ Table of contents:
 ## Task
 * [ericclemmons/grunt-angular-templates](https://github.com/ericclemmons/grunt-angular-templates) - Grunt build task to concatenate & pre-load your AngularJS templates.
 * [Kagami/gulp-ng-annotate](https://github.com/Kagami/gulp-ng-annotate) - Add AngularJS dependency injection annotations with ng-annotate.
-* [jeffling/ngmin-webpack-plugin](https://github.com/jeffling/ngmin-webpack-plugin) - Webpack plugin for injection of annotations (for pre-minimization).
+* [jeffling/ng-annotate-webpack-plugin](https://github.com/jeffling/ng-annotate-webpack-plugin) - Webpack plugin that runs ng-annotate on your bundles.
 
 ## TodoMVC
 * [angular-dart](https://github.com/tastejs/todomvc/tree/master/examples/angular-dart)
