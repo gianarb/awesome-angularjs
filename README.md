@@ -172,6 +172,7 @@ Table of contents:
 * [rev087/ng-inspector](https://github.com/rev087/ng-inspector) - A browser extension that displays an inspector panel showing the AngularJS scope hierarchy in the current page in real time.
 * [Linkurious/angular-performance](https://github.com/Linkurious/angular-performance) - A chrome extension aimed at monitoring angular application performance.
 * [ocombe/ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Lazy load modules & components in AngularJS.
+* [angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman AngularJS Full-Stack generator with an Express server.
 
 ## View
 * [Angular Material](https://material.angularjs.org) - A set of reusable, well-tested, and accessible UI components based on Material Design.
