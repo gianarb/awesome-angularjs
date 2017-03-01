@@ -206,6 +206,7 @@ Table of contents:
 * [carlcraig/tc-angular-chartjs](https://github.com/carlcraig/tc-angular-chartjs) - Add Chart.js charts to your AngularJS application.
 * [stpa-co/angular-morris-chart](https://github.com/stewones/angular-morris-chart) - Create morris chart easily with this directives.
 * [jtblin/angular-chart.js](https://github.com/jtblin/angular-chart.js) - Reactive, responsive, beautiful charts using Chart.js
+* [AnyChart/AnyChart-AngularJS-v1.x](https://github.com/AnyChart/AnyChart-AngularJS-v1.x) - Create robust interactive charts using AnyChart JavaScript charting library with AngularJS v1.x.
 
 ## Task
 * [ericclemmons/grunt-angular-templates](https://github.com/ericclemmons/grunt-angular-templates) - Grunt build task to concatenate & pre-load your AngularJS templates.
