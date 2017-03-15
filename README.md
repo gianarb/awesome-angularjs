@@ -141,7 +141,7 @@ Table of contents:
 * [grevory/angular-local-storage](https://github.com/grevory/angular-local-storage) - An AngularJS module that gives you access to the browsers local storage with cookie fallback.
 * [jmdobry/angular-cache](https://github.com/jmdobry/angular-cache) - angular-cache is a very useful replacement for AngularJS's $cacheFactory.
 * [jmdobry/angular-data](https://github.com/js-data/js-data-angular) - Data store for AngularJS.
-* [webcss/angular-indexedDB](https://github.com/webcss/angular-indexedDB) - An AngularJS serviceprovider to utilize indexedDB with AngularJS.
+* [bramski/angular-indexedDB](https://github.com/bramski/angular-indexedDB) - An AngularJS serviceprovider to utilize indexedDB with AngularJS.
 * [tymondesigns/angular-locker](https://github.com/tymondesigns/angular-locker) - A simple, configurable & fluent abstraction for local/session storage in angular projects.
 
 ## Data Manage
