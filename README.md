@@ -85,6 +85,7 @@ Table of contents:
 
 ## Filter
 * [jdpedrie/angularjs-camelCase-to-human-filter](https://github.com/jdpedrie/angularjs-camelCase-to-human-filter) - AngularJS Filter to convert camelCase strings to human readable strings.
+* [a8m/angular-filter](https://github.com/a8m/angular-filter) - Bunch of useful filters for collections, strings, math and boolean operations in AngularJS with no external dependencies.
 
 ## Directive
 * [johannesjo/angular-promise-buttons](https://github.com/johannesjo/angular-promise-buttons) - Chilled loading buttons for AngularJS.
